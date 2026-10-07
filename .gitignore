@@ -1,0 +1,4 @@
+# Build output (attached to GitHub releases instead)
+*.exe
+*.pdb
+*.zip
